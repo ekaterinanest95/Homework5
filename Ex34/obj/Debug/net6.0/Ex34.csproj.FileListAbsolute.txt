@@ -1,0 +1,15 @@
+D:\Documents\Homework5\hometask\Ex34\bin\Debug\net6.0\Ex34.exe
+D:\Documents\Homework5\hometask\Ex34\bin\Debug\net6.0\Ex34.deps.json
+D:\Documents\Homework5\hometask\Ex34\bin\Debug\net6.0\Ex34.runtimeconfig.json
+D:\Documents\Homework5\hometask\Ex34\bin\Debug\net6.0\Ex34.dll
+D:\Documents\Homework5\hometask\Ex34\bin\Debug\net6.0\Ex34.pdb
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.csproj.AssemblyReference.cache
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.AssemblyInfoInputs.cache
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.AssemblyInfo.cs
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.csproj.CoreCompileInputs.cache
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.dll
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\refint\Ex34.dll
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.pdb
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\Ex34.genruntimeconfig.cache
+D:\Documents\Homework5\hometask\Ex34\obj\Debug\net6.0\ref\Ex34.dll
